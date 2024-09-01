@@ -21,26 +21,26 @@ Accurate emotion classification can enhance user interaction and provide valuabl
 The dataset comprises images of facial expressions categorized into seven emotions. It includes 28,709 training images and 7,178 validation images. The images are processed in grayscale with a target size of 48x48 pixels.
 
 ### Steps and Implementation:
-- 1. Import Libraries
+1. Import Libraries
+- Import the necessary libraries
+2. Explore Dataset
+- Visualize sample images from the dataset to understand the data distribution.
 
-- 2. Explore Dataset
-Visualize sample images from the dataset to understand the data distribution.
+3. Prepare Data for Training
+- Load images using ImageDataGenerator.
+- Preprocess images for model input.
 
-- 3. Prepare Data for Training
-Load images using ImageDataGenerator.
-Preprocess images for model input.
+4. Define Model
+- Implement a CNN with layers of Conv2D, BatchNormalization, Activation, MaxPooling2D, and Dense layers to classify images into emotion categories.
 
-- 4. Define Model
-Implement a CNN with layers of Conv2D, BatchNormalization, Activation, MaxPooling2D, and Dense layers to classify images into emotion categories.
+5. Train the Model
+- Train the CNN model for 15 epochs with model checkpoints to save the best weights.
 
-- 5. Train the Model
-Train the CNN model for 15 epochs with model checkpoints to save the best weights.
+6. Evaluate the Model
+- Assess model performance on validation data and plot loss and accuracy graphs.
 
-- 6. Evaluate the Model
-Assess model performance on validation data and plot loss and accuracy graphs.
-
-- 7. Save the Model
-Save the trained model architecture and weights for future use.
+7. Save the Model
+- Save the trained model architecture and weights for future use.
 
 ### Dependencies:
 - Jupyter Notebook
