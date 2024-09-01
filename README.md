@@ -57,9 +57,7 @@ To contribute to this project:
 - Submit a pull request.
 
 ### Contact:
-<a href="https://telegram.me/YourUsername" target="_blank"><img src="https://img.shields.io/badge/Messenger-YourUsername-blue?style=for-the-badge&logo=messenger"></a>
+<a href="https://telegram.me/Rkch38" target="_blank"><img src="https://img.shields.io/badge/Messenger-Rkch38-blue?style=for-the-badge&logo=messenger"></a>
 
-<a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-your.email@example.com-blue?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:rkchoudharyritik2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rkchoudharyritik2@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
-</br>
-<h5 align="center">© 2024-25 YourName.</h5>
